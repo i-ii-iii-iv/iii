@@ -4,7 +4,7 @@ Team membership:  Alex (Captain) & Anthony (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 1.1
+## *Version 1.2
 
 Release Date: Jan 25, 2018
 
@@ -18,6 +18,9 @@ Added CodeIgniter to the project
 	
 -Controllers
 	Added controllers for Welcome, About, and Gallery
+	
+-Database
+	Added database support using phpMyAdmin for gallery images
 
 ## Updated Components
 
