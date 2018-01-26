@@ -14,6 +14,7 @@ Added CodeIgniter to the project
 
 -Views
 	Added views for Welcome, About, and Gallery
+	Changed views for welcome, about, and gallery, template to support code igniter 
 	
 -Controllers
 	Added controllers for Welcome, About, and Gallery
